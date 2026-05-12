@@ -20,9 +20,9 @@ HEADERS = {
 
 GAME_SERVICES = [
     "567slot_game",
+    "Yono_vip",
     "mbmbet_game",
     "yonoslot_game",
-    "Yono_vip",
     "789jackpot_game"
 ]
 
