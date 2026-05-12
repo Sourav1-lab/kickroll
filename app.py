@@ -22,7 +22,7 @@ GAME_SERVICES = [
     "567slot_game",
     "mbmbet_game",
     "yonoslot_game",
-    "hirummy_game",
+    "Yono_vip",
     "789jackpot_game"
 ]
 
